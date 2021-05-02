@@ -1,0 +1,14 @@
+E:\Aghazadeh\Git\CleanCode\DirtyCode\Refactor\Resources\bin\Debug\net5.0-windows\Resources.deps.json
+E:\Aghazadeh\Git\CleanCode\DirtyCode\Refactor\Resources\bin\Debug\net5.0-windows\Resources.dll
+E:\Aghazadeh\Git\CleanCode\DirtyCode\Refactor\Resources\bin\Debug\net5.0-windows\ref\Resources.dll
+E:\Aghazadeh\Git\CleanCode\DirtyCode\Refactor\Resources\bin\Debug\net5.0-windows\Resources.pdb
+E:\Aghazadeh\Git\CleanCode\DirtyCode\Refactor\Resources\obj\Debug\net5.0-windows\Resources.csprojAssemblyReference.cache
+E:\Aghazadeh\Git\CleanCode\DirtyCode\Refactor\Resources\obj\Debug\net5.0-windows\Resources.ExceptionResource.resources
+E:\Aghazadeh\Git\CleanCode\DirtyCode\Refactor\Resources\obj\Debug\net5.0-windows\Resources.csproj.GenerateResource.cache
+E:\Aghazadeh\Git\CleanCode\DirtyCode\Refactor\Resources\obj\Debug\net5.0-windows\Resources.GeneratedMSBuildEditorConfig.editorconfig
+E:\Aghazadeh\Git\CleanCode\DirtyCode\Refactor\Resources\obj\Debug\net5.0-windows\Resources.AssemblyInfoInputs.cache
+E:\Aghazadeh\Git\CleanCode\DirtyCode\Refactor\Resources\obj\Debug\net5.0-windows\Resources.AssemblyInfo.cs
+E:\Aghazadeh\Git\CleanCode\DirtyCode\Refactor\Resources\obj\Debug\net5.0-windows\Resources.csproj.CoreCompileInputs.cache
+E:\Aghazadeh\Git\CleanCode\DirtyCode\Refactor\Resources\obj\Debug\net5.0-windows\Resources.dll
+E:\Aghazadeh\Git\CleanCode\DirtyCode\Refactor\Resources\obj\Debug\net5.0-windows\ref\Resources.dll
+E:\Aghazadeh\Git\CleanCode\DirtyCode\Refactor\Resources\obj\Debug\net5.0-windows\Resources.pdb

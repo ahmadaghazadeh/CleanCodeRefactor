@@ -1,0 +1,12 @@
+E:\Aghazadeh\Git\CleanCode\DirtyCode\Refactor\Framework\bin\Debug\net5.0-windows\Framework.deps.json
+E:\Aghazadeh\Git\CleanCode\DirtyCode\Refactor\Framework\bin\Debug\net5.0-windows\Framework.dll
+E:\Aghazadeh\Git\CleanCode\DirtyCode\Refactor\Framework\bin\Debug\net5.0-windows\ref\Framework.dll
+E:\Aghazadeh\Git\CleanCode\DirtyCode\Refactor\Framework\bin\Debug\net5.0-windows\Framework.pdb
+E:\Aghazadeh\Git\CleanCode\DirtyCode\Refactor\Framework\obj\Debug\net5.0-windows\Framework.csprojAssemblyReference.cache
+E:\Aghazadeh\Git\CleanCode\DirtyCode\Refactor\Framework\obj\Debug\net5.0-windows\Framework.GeneratedMSBuildEditorConfig.editorconfig
+E:\Aghazadeh\Git\CleanCode\DirtyCode\Refactor\Framework\obj\Debug\net5.0-windows\Framework.AssemblyInfoInputs.cache
+E:\Aghazadeh\Git\CleanCode\DirtyCode\Refactor\Framework\obj\Debug\net5.0-windows\Framework.AssemblyInfo.cs
+E:\Aghazadeh\Git\CleanCode\DirtyCode\Refactor\Framework\obj\Debug\net5.0-windows\Framework.csproj.CoreCompileInputs.cache
+E:\Aghazadeh\Git\CleanCode\DirtyCode\Refactor\Framework\obj\Debug\net5.0-windows\Framework.dll
+E:\Aghazadeh\Git\CleanCode\DirtyCode\Refactor\Framework\obj\Debug\net5.0-windows\ref\Framework.dll
+E:\Aghazadeh\Git\CleanCode\DirtyCode\Refactor\Framework\obj\Debug\net5.0-windows\Framework.pdb
